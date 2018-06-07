@@ -1,0 +1,11 @@
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\bin\Debug\netcoreapp2.0\Dotnet-Core.deps.json
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\bin\Debug\netcoreapp2.0\Dotnet-Core.runtimeconfig.json
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\bin\Debug\netcoreapp2.0\Dotnet-Core.runtimeconfig.dev.json
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\bin\Debug\netcoreapp2.0\Dotnet-Core.dll
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\bin\Debug\netcoreapp2.0\Dotnet-Core.pdb
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\obj\Debug\netcoreapp2.0\Dotnet-Core.csprojResolveAssemblyReference.cache
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\obj\Debug\netcoreapp2.0\Dotnet-Core.csproj.CoreCompileInputs.cache
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\obj\Debug\netcoreapp2.0\Dotnet-Core.AssemblyInfoInputs.cache
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\obj\Debug\netcoreapp2.0\Dotnet-Core.AssemblyInfo.cs
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\obj\Debug\netcoreapp2.0\Dotnet-Core.dll
+C:\Users\subash.sekar\Desktop\Dotnet-Core\Dotnet-Core\obj\Debug\netcoreapp2.0\Dotnet-Core.pdb
